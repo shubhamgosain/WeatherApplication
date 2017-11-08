@@ -11,6 +11,8 @@ I have used open weather api to get weather json data which I later deserialized
 
 Though it's basic app but the quality of work that can be done on such kind of applications can be interactive and i done the same .
 
+All the weather icons and png images I have provide under src/weather2 package which you can use accordingly. 
+
 Just Pull or Clone the repository and enjoy working
 
 Enjoy !!
